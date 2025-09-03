@@ -85,5 +85,4 @@ $ yarn start
 ## API
 `Fetch Api = Postman`
 
-# Bugs, issues, and contributing
 
