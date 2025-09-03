@@ -1,10 +1,6 @@
 <h1 align="center"><strong>👋Job Portal</strong></h1>
  Job Portal is a web application that connects job seekers with employers, allowing them to search and apply for jobs and manage their job postings.
 
-# Badges
- 
-
-
 # Directory structure of the web app is as follows:
 
 - Backend/
